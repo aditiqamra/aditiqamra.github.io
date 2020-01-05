@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Learning"
+title                    : "Shiny new things I learn"
 title_separator          : "-"
-name                     : &name "Dr. Aditi Qamra"
-description              : &description "Computational Biologist"
+name                     : &name "Aditi Qamra"
+description              : &description "PhD in computational biology focusing on (epi)genomics of GI tract cancers. Enjoys learning new things in R"
 url                      : https://aditiqamra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aditiqamra.github.io"
